@@ -65,7 +65,7 @@ Workflow Automation
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-<img src="images/AzureDataLake_Gen2Connector.png" width="100" alt="Azure Data Lake Gen2 Connector"/>
+<img src="images/AzureDataLake_Gen2Connector.png" width="100" alt="Azure Data Lake Gen2 ![Alt Text]( https://github.com/amewulonu/amewulonu-github-profile/blob/a04e40c42818061836f4df3294f1d0d71217c9ce/images/AzureDataLake_Gen2Connector.png)
 <img src="images/AzureDatabricks.png" width="100" alt="Azure Databricks"/>
 <img src="images/GitHub.png" width="100" alt="GitHub"/>
 <img src="images/JSON.png" width="100" alt="JSON"/>
