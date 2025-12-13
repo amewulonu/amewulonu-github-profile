@@ -64,6 +64,6 @@ Workflow Automation
 
 ## 🛠️ Tools & Technologies
 
-
+<img src=" , https://github.com/amewulonu/amewulonu-github-profile/tree/13b907b82d1ecf7227672becba7cccabe1a8d7c1/images"/>
 
 ⭐ I enjoy building data systems that turn complex information into clear insights that support better decision-making.
