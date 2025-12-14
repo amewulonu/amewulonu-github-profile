@@ -16,6 +16,14 @@ profile = {
     "email_address": "amyewulonu@gmail.com"
 }
 ```
+## 🗂️ Projects
+
+🔄 [AW-DataPipeline](https://github.com/amewulonu/AW-DataPipeline.git)
+🛢️ [SCM_DB](https://github.com/amewulonu/SCM_DB.git)
+📈 [PowerBI-Analytics-Portfolio](https://github.com/amewulonu/PowerBI-Analytics-Portfolio-.git)
+🧱 [SupplyChainDB](https://github.com/amewulonu/SupplyChainDB.git)
+🧪 [HealthTrackDB-Project](https://github.com/amewulonu/HealthTrackDB-Project.git)
+☁️ [wegroceriesapi](https://github.com/amewulonu/wegroceriesapi.git)
 
 ## 🛠️ Technical Skills
 **Databases & SQL**
